@@ -1,0 +1,78 @@
+88  git clone https://github.com/lazorenkovlada/recipes.git
+   89  cd recipes
+   90  ls -lt
+   91  pwd
+   92  cd Desktop
+   93  mkdir hep_initial
+   94  cd hep_initial/
+   95  pip install root
+   96  python3 -m venv .venv
+   97  source .venv/bin/activate
+   98  pip install root
+   99  git clone git@github.com:lazorenkovlada/root_training.git
+  100  (.venv) root@DESKTOP-TL6SAR4:/mnt/c/Users/user/Desktop/hep_initial# git clone git@github.com:lazorenkovlada/root_training.git
+  101  Cloning into 'root_training'...
+  102  The authenticity of host 'github.com (140.82.121.3)' can't be established.
+  103  ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+  104  This key is not known by any other names.
+  105  Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+  106  Please type 'yes', 'no' or the fingerprint: yes
+  107  Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+  108  git@github.com: Permission denied (publickey).
+  109  fatal: Could not read from remote repository.
+  110  Please make sure you have the correct access rights
+  111  and the repository exists.(.venv) root@DESKTOP-TL6SAR4:/mnt/c/Users/user/Desktop/hep_initial# git clone git@github.com:lazorenkovlada/root_training.git
+  112  Cloning into 'root_training'...
+  113  The authenticity of host 'github.com (140.82.121.3)' can't be established.
+  114  ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+  115  This key is not known by any other names.
+  116  Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+  117  Please type 'yes', 'no' or the fingerprint: yes
+  118  Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+  119  git@github.com: Permission denied (publickey).
+  120  fatal: Could not read from remote repository.
+  121  Please make sure you have the correct access rights
+  122  and the repository exists.(.venv) root@DESKTOP-TL6SAR4:/mnt/c/Users/user/Desktop/hep_initial# git clone git@github.com:lazorenkovlada/root_training.git
+  123  Cloning into 'root_training'...
+  124  The authenticity of host 'github.com (140.82.121.3)' can't be established.
+  125  ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+  126  This key is not known by any other names.
+  127  Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+  128  Please type 'yes', 'no' or the fingerprint: yes
+  129  Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+  130  git@github.com: Permission denied (publickey).
+  131  fatal: Could not read from remote repository.
+  132  Please make sure you have the correct access rights
+  133  and the repository exists.ls -al ~/.ssh
+  134  ls -al ~/.ssh
+  135  git clone git@github.com:lazorenkovlada/root_trainin
+  136  git clone git@github.com:lazorenkovlada/root_training
+  137  git clone https://github.com/lazorenkovlada/root_training.git
+  138  ls -al /root/.ssh
+  139  ssh-keygen -t ed25519 -C "твій_email@example.com"
+  140  ssh-keygen -t ed25519 -C "vladalazorenko@gmail.com"
+  141  ssh-keygen -t ed25519 -C "vladalazorenko33@gmail.com"
+  142  git clone git@github.com:lazorenkovlada/root_training
+  143  ls
+  144  pwd
+  145  history
+  146  cd hep_initial
+  147  cd Desktop
+  148  cd hep_initial
+  149  git clone git@github.com:lazorenkovlada/root_training
+  150  ls
+  151  ls -lt
+  152  cd root_training
+  153  nano hello.txt
+  154  ls -lt
+  155  cat hello.txt
+  156  git status
+  157  git add
+  158  git add hello.txt
+  159  git status
+  160  git commit hello.txt
+  161  git commit -m "we started"
+  162  git status
+  163  git push
+  164  history
+root@DESKTOP-TL6SAR4:/mnt/c/Users/user/Desktop/hep_initial/root_training#
